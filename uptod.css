@@ -1,0 +1,399 @@
+*{
+    margin:0px;
+    padding:0px;
+    }
+    .Uptodd
+    {
+    width: 1366px;
+    margin: 0px auto;
+    }
+    .mainUptodd
+    {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1366px;
+    height: 82px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 0px auto;
+    }
+    ul li{
+    font-family: DM Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    }
+    ul{
+    width: 40%;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    }
+    .Container{
+    background: linear-gradient(0deg, #4B5ADB 0%, #5A40C4 100%);
+    width: 1366px;
+    height: 250px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    }
+    .Parta
+    {
+    font-family: DM Sans;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: -0.04em;
+    text-align: center;
+    color: #FFFFFF;
+    }
+    .Partb
+    {
+    font-family: DM Sans;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: -0.04em;
+    text-align: center;
+    color: #FFFFFF;
+    }
+    .heading
+    {
+    font-family: DM Sans;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: -0.04em;
+    text-align: center;
+    color: #002863;
+    width: 805px;
+    height: 54px;
+    margin:0px auto;
+    }
+    .card
+    {
+    width: 257.79px;
+    height: 265px;
+    position: relative;
+    }
+    .card1{
+    width: 199px;
+    height: 265px;
+    border-radius: 12px;
+    border:1px solid black;
+    margin: 0px auto;
+    }
+    .mainCards
+    {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    }
+    .head1
+    {
+    width: auto;
+    }
+    .head2{
+    width: auto;
+    font-family: DM Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: -0.04em;
+    text-align: center;
+    color: #002863;
+    }
+    .paracard
+    {
+    font-family: DM Sans;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #002863;
+    }
+    .card21
+    {
+    width: 360px;
+    height: 358px;
+    border-radius: 12px;
+    background: #FFFFFF;
+    border: 1px solid #002863;
+    box-shadow: 0px 4px 12px 0px #0916300F;
+    }
+    .maincards2
+    {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .maincard3
+    {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    }
+    .maincard5
+    {
+    width: 887px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    }
+    .card31
+    {
+    width: 360px;
+    height: 358px;
+    border:0px solid #002863;
+    }
+    .card31 p
+    {
+    font-family: DM Sans;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    width: 266px;
+    height: 91px;
+    color: #002863;
+    ;
+    }
+    .card5
+    {
+    width: 101px;
+    height: 130px;
+    }
+    .headingBrilliant
+    {
+    width: 882px;
+    height: 68px;
+    font-family: DM Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 68px;
+    letter-spacing: -0.04em;
+    text-align: center;
+    margin: 0px auto;
+    }
+    .brilliantSec
+    {
+    background: #FFFBFB;
+    padding: 60px 0px 30px 0px;
+    }
+    .cardss
+    {
+    width: 360.28px;
+    border-radius: 12px 12px 0px 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    }
+    .card61 p{
+    font-family: DM Sans;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    color:#002863;
+    width: 302px;
+    height: 52px;
+    }
+    .container8{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1366px;
+    height: 160px;
+    margin:0px auto;
+    background: #5A40C4;
+    }
+    .container8 p{
+    width: 718px;
+    height: 64px;
+    font-family: DM Sans;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    color: #FFFFFF;
+    }
+    .container9{
+    width: 1366px;
+    height: 435px;
+    background: #F6FCFE;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px auto;
+    }
+    .container9 p{
+    width: 595px;
+    height: 150px;
+    font-family: DM Sans;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    }
+    .container9 img{
+    display:block;
+    width: 227px;
+    height: 282px;
+    border-radius: 8px;
+    }
+    @media only screen and (max-width:540px)
+    {
+    .Uptodd
+    {
+    width: 376px;
+    margin: 0px auto;
+    }
+    .Container{ 
+    width: 376px;
+    height: 185px;}
+    .Parta
+    {
+    font-size: 16px;
+    }
+    .Partb
+    {
+    font-size:22px;
+    }
+    .heading
+    {
+    width: 231px;
+    height: 56px;
+    font-size: 20px;
+    line-height: 28px;
+    }
+    .card{
+    margin-bottom: 20px;
+    }
+    .mainCards
+    {
+        width: 376px !important;
+    flex-direction: column;
+    }
+    .head1
+    {
+    font-family: DM Sans;
+    font-size: 20px !important;
+    font-weight: 700 !important;
+    line-height: 28px !important;
+    letter-spacing: -0.04em !important;
+    text-align: center;
+    }
+    .happypart
+    {
+    font-family: DM Sans;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 28px !important; 
+    letter-spacing: -0.04em !important;
+    text-align: center;
+    }
+    .maincard3
+    {
+    flex-direction: column;
+    }
+    .card31
+    {
+    width: 280px;
+    height: 300px;
+    }
+    .imagebox
+    {
+    width: 261.13px;
+    height: 148px;
+    }
+    .head2
+    {
+    font-family: DM Sans;
+    font-size: 14px !important;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: -0.04em;
+    text-align: center;
+    }
+    .container9{
+    width: 375px;
+    height: 542px;
+    background: #F6FCFE;
+    flex-direction: column;
+    margin: 0px auto;
+    }
+    .container9 p{
+    width: 314px;
+    height: 128px;
+    font-family: DM Sans;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    color: #002863;
+    }
+    .container8{
+    flex-direction: column;
+    width: 375px;
+    height: 267px;
+    margin:0px auto;
+    background: #5A40C4;
+    }
+    .container8 p{
+    width: 321px;
+    height: 130px;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    color: #FFFFFF;
+    }
+    .container8 button {
+    text-align: center;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+    }
+    .headingBrilliant
+    {
+    display: none;
+    }
+    .cardss
+    {
+    width: 280px;
+    border-radius: 12px 12px 0px 0px;
+    flex-direction: column;
+    margin-bottom: 20px;
+    }
+    .maincard5
+    {
+    width: 347px;
+    margin: 0px auto;
+    flex-direction: column;
+    }
+    ul{
+    display: none;
+    }
+    .mainUptodd
+    {
+    width: 376px;
+    }
+    }
